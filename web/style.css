@@ -1,0 +1,40 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: coral;
+  }
+  h2 {
+    color: lightcoral;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+#mainMenu {
+	margin:10px;
+	width:900px;
+	font-family: sans-serif;
+}
+#mainMenu li {
+	display:block;
+	width:180px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
+}
+
+#mainMenu a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:coral;
+	color:#009;
+}
+
+#mainMenu a:hover {
+	background-color:lightcoral;
+	color:#fff;
+}  
