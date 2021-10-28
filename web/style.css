@@ -1,16 +1,19 @@
+.cheat{
+    background-color: #5B6230;
+    color: #423123;
+    border: 20px #1A0010;
+    padding: 20px;
+}
+
+
 body {
-    background-color: powderblue;
+    background-color: #7D8D4E;
   }
   h1 {
-    color: coral;
+    color: #5B6340;
   }
   h2 {
-    color: lightcoral;
-  }
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+    color: #666F49;
   }
 
 #mainMenu {
@@ -30,11 +33,11 @@ body {
 	display:block;
 	padding:3px;
 	text-decoration:none;
-	background-color:coral;
+	background-color:#6F794F;
 	color:#009;
 }
 
 #mainMenu a:hover {
-	background-color:lightcoral;
+	background-color:#7D8859;
 	color:#fff;
 }  
