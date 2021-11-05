@@ -1,19 +1,19 @@
 .cheat{
-    background-color: #5B6230;
-    color: #423123;
-    border: 20px #1A0010;
+    background-color: #2A9D8F;
+    color: #264653;
+    border: 20px #E76F51;
     padding: 20px;
 }
 
 
 body {
-    background-color: #7D8D4E;
+    background-color: #F4A261;
   }
   h1 {
-    color: #5B6340;
+    color: #264653;
   }
   h2 {
-    color: #666F49;
+    color: #264653;
   }
 
 #mainMenu {
@@ -33,11 +33,11 @@ body {
 	display:block;
 	padding:3px;
 	text-decoration:none;
-	background-color:#6F794F;
+	background-color:#E9C46A;
 	color:#009;
 }
 
 #mainMenu a:hover {
-	background-color:#7D8859;
+	background-color:#E76F51;
 	color:#fff;
 }  
